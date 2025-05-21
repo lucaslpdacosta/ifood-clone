@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737906202600",
+    "project_id": "ifood-clone-f29c8",
+    "storage_bucket": "ifood-clone-f29c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737906202600:android:5e43d802dedc31e94f365d",
+        "android_client_info": {
+          "package_name": "com.lucaslpdacosta.ifood_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNgnLhuJAvkzK7hChuUtpz6wUp7By2Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
